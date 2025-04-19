@@ -31,8 +31,8 @@ Your tasks are saved to a file called todolister.txt, so they stick around even 
 ## ⚙️ Setup
 Step 1: Git clone 
 ```
-git clone https://github.com/yourusername/todo-lister.git
-cd todo-lister
+git clone https://github.com/Code1nception/ToDoList_Python.git
+cd ToDoList_Python
 ```
 Step 2: Run the File 
 ```
